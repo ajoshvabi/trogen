@@ -1,0 +1,9 @@
+String coins = "assets/icons/coins.png";
+String course1 = "assets/icons/Course 1.png";
+String profile = "assets/images/profile.png";
+String upgrade = "assets/images/upgrade.png";
+String whatsapp = "assets/images/whatsapp.png";
+String image = "assets/images/image.png";
+String white = "assets/images/white.png";
+String white1 = "assets/images/white2.png";
+String person = "assets/icons/person.png";
